@@ -1,0 +1,42 @@
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\obj\Debug\Twitter webscraper.csprojAssemblyReference.cache
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\nunit.engine.dll
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\nunit.engine.api.dll
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\nunit.engine.core.dll
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\Twitter webscraper.exe.config
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\Twitter webscraper.exe
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\Twitter webscraper.pdb
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\nunit.framework.dll
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\WebDriver.dll
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\nunit.framework.xml
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\obj\Debug\Twitter webscraper.csproj.CopyComplete
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\obj\Debug\Twitter webscraper.exe
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\obj\Debug\Twitter webscraper.pdb
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\CsvHelper.dll
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\System.Buffers.dll
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\System.Memory.dll
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\System.Text.Json.dll
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\System.ValueTuple.dll
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\CsvHelper.xml
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\System.Buffers.xml
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\System.Memory.xml
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\System.Text.Json.xml
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jorrit\source\repos\Twitter webscraper\Twitter webscraper\bin\Debug\System.ValueTuple.xml
